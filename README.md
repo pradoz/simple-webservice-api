@@ -11,7 +11,7 @@
 
 
 ## TODO:
-[ ] - Dockerize application  <br />
+[x] - Dockerize application  <br />
 [ ] - Create deployment  <br />
 [ ] - Expose app with Ingress  <br />
 [ ] - Configurations using ConfigMap  <br />
